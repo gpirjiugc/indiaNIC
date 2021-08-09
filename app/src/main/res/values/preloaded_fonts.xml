@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alex_brush</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/norican</item>
+        <item>@font/parisienne</item>
+        <item>@font/ultra</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>
